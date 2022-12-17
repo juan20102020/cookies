@@ -1,4 +1,5 @@
 <html>
   <body>
     <header>
-      <img src="https://klike.net/uploads/posts/2022-10/1664684549_b.jpg">
+      <img id = "photo 1" src="https://klike.net/uploads/posts/2022-10/1664684549_b.jpg">
+      
