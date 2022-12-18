@@ -1,9 +1,9 @@
-.photo {
+header img {
   border-radius: 20px;
   width="250" height="180";
 }
 
-header a {
+.coc {
 text-decoration: none;
 color: #000000;
 border-radius: 10px;
@@ -11,3 +11,24 @@ font-size: 20px;
 border-color: #ffffff;
 padding: 5px;
 margin: 10px;
+}
+
+.rez {
+text-decoration: none;
+color: #000000;
+border-radius: 10px;
+font-size: 20px;
+border-color: #ffffff;
+padding: 5px;
+margin: 10px;
+}
+
+.sup {
+text-decoration: none;
+color: #000000;
+border-radius: 10px;
+font-size: 20px;
+border-color: #ffffff;
+padding: 5px;
+margin: 10px;
+}
