@@ -3,18 +3,11 @@
   width="250" height="180";
 }
 
-.lol {
-  border-radius: 20px;
-}
-
-.loll {
-  border-radius: 20px;
-}
-
-.juan {
-  border-radius: 20px;
-}
-
-.v {
-  border-radius: 20px;
-
+header a {
+text-decoration: none;
+color: black;
+border-radius: 10px;
+font-size: 20px;
+border-color: white;
+padding: 5px;
+margin: 10px;
