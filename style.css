@@ -2,17 +2,120 @@ body {
     font-family: sans-serif;
 }
 
-header img {
-  border-radius: 20px;
-  width="250" height="180";
-}
-
 header a {
-text-decoration: none;
+    font-family: BALTHAZAR;
+    text-decoration: none;
 color: #000000;
-border-radius: 10px;
-font-size: 20px;
+border: 1px solid white;
+border-radius: 15px;
+font-size: 25px;
 border-color: #ffffff;
 padding: 5px;
-margin: 10px;
+margin: 20px;
+text-align: justify;
+}
+
+header {
+  background-color: #c41d00;
+  margin-bottom: 10px;
+}
+
+header{
+  border-radius: 60px;
+  width: 750px;
+   height:100px;
+   
+}
+
+nav {
+  text-align: center;
+  padding: 36px;
+}
+
+header a{
+    background-color: rgb(255, 255, 255);
+}
+
+header{
+    text-align: center;
+}
+
+.text{
+    text-decoration: BALTHAZAR;
+    text-align: justify;
+    margin-left: 30px;
+    border: 1px solid white;
+    border-radius: 15px;
+    font-size: 35px;
+    border-color: #ffffff;
+    height: 40px;
+    width: 180px;
+    padding: 2px;
+    margin: 20px;
+    background-color: #ffffff;
+}
+
+p {
+    text-align: justify;
+    font-family: comic sans ms;
+    color: #ffffff;
+}
+
+.phot {
+    margin-top:-165px;
+    margin-right: 200px;
+    margin-left: 580px;
+    border: 1 px solid white;
+    border-radius: 100px;
+    height: 200px;
+    width: 230px
+    
+}
+
+.text2{
+text-decoration: BALTHAZAR;
+    text-align: justify;
+    margin-left: 30px;
+    border: 1px solid white;
+    border-radius: 15px;
+    font-size: 35px;
+    border-color: #ffffff;
+    height: 40px;
+    width: 222px;
+    padding: 2px;
+    margin: 20px;
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.two{
+    border-radius: 80px;
+    width: 500px;
+    height: 400px;
+    margin-left: 10px;
+    margin-top: 30px;
+}
+
+body{
+    background-color: white;
+    background-image: url("https://media.istockphoto.com/id/1278304109/vector/christmas-snowflake-background-seamless-pattern.jpg?s=612x612&w=0&k=20&c=BLdwDQ1NG-U11z155q49qdqMjMmy8N2tDojQ284kHss=");
+}
+
+body,html{margin:0;padding:0;height:100%;}
+body{
+  background:url("https://media.istockphoto.com/id/1278304109/vector/christmas-snowflake-background-seamless-pattern.jpg?s=612x612&w=0&k=20&c=BLdwDQ1NG-U11z155q49qdqMjMmy8N2tDojQ284kHss=");
+  background-size:cover;
+  font-family: 'Cabin Condensed', sans-serif;
+  display:flex;
+  flex-direction:column;
+  justify-content:center;
+  align-items:center;
+}
+svg{font-weight:bold;max-width:600px;height:auto;}
+
+header img{
+    width: 200px;
+    height: 200px;
+  margin-left: 570px;
+  margin-top: -120px;
 }
