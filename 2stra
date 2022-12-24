@@ -1,0 +1,23 @@
+<html>
+  <body>
+    <header>
+        <nav>
+      <a href="https://learn.algoritmika.org/lesson?lesson=6171&level=1&module=4&task=16580">О cookies</a>
+      <a href ="https://learn.algoritmika.org/lesson?lesson=6171&level=2&module=4&task=16580">Рецепт cookies</a>
+      <a href="https://learn.algoritmika.org/lesson?lesson=6171&level=4&module=4&task=16580">Что можно подарить</a>
+      <img src="https://i.ibb.co/TrjWv1V/675-6757170-santa-claus-santa-suit-hat-christmas-clip-art-Photo-Room-png-Photo-Room.png">
+        </nav>
+    </header>
+  </body>
+  <h1 class="three"> Рецепт cookies</h1>
+  <p> <b>Ингредиенты</b><br>
+120 г сливочного масла<br>
+100-150 г сахара (по своему вкусу)<br>
+2 яйца комнатной температуры<br>
+1 ч. л. разрыхлителя<br>
+Щепотка ванилина<br>
+0,5 ч. л. соли<br>
+350 г муки<br>
+100 г шоколадных дропсов или шоколада</p>
+<p><img class="cookies" src="https://www.verybestbaking.com/sites/g/files/jgfbjl326/files/srh_recipes/4bc5edb86285aadc28069f51d9e98974.jpg"></p>
+</html>
